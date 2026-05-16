@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "15",
+  "filename": "15_rajarajeshwarinagar.wav",
+  "text": "भैया मैं राजराेश्वरी नगर में रूम ढूंढ रहा हूँ थोड़ा सस्ता वाला",
+  "latency_s": 1.166400307999993,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

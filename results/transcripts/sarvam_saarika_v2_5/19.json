@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "19",
+  "filename": "19_kengeri_upanagara.wav",
+  "text": "केंगेरी उपनगर मेट्रो तक रोड ऑटो से जाता हूँ मैं तो",
+  "latency_s": 0.8661985411308706,
+  "error": null,
+  "raw": {
+    "request_id": "20260516_85f79261-3b46-4f5f-98ba-4323352327be",
+    "transcript": "केंगेरी उपनगर मेट्रो तक रोड ऑटो से जाता हूँ मैं तो",
+    "language_code": "hi-IN"
+  }
+}

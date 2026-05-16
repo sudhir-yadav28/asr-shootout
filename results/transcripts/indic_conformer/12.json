@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "12",
+  "filename": "12_kadugondanahalli.wav",
+  "text": "अः कद्दुगोद नली के पास एक गारमेंट फैक्ट्री में काम करता था मैं पहले",
+  "latency_s": 1.2544828190000317,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

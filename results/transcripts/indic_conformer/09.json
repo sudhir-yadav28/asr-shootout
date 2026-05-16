@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "09",
+  "filename": "09_majestic.wav",
+  "text": "बस स्टैंड मजिस्टिक से मैसर की बस मिलती है हर घंटे ठीक है",
+  "latency_s": 1.5920592429999942,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

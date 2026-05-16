@@ -1,0 +1,11 @@
+{
+  "model": "whisper_large_v3_local",
+  "clip_id": "02",
+  "filename": "02_Indranagar.wav",
+  "text": "कि मेरा घर इंद्रानगर में 12 मेन रोड पर ठीक है",
+  "latency_s": 2.74418487600002,
+  "error": null,
+  "raw": {
+    "text": "कि मेरा घर इंद्रानगर में 12 मेन रोड पर ठीक है"
+  }
+}

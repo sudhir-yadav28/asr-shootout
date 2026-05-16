@@ -1,0 +1,11 @@
+{
+  "model": "whisper_large_v3_local",
+  "clip_id": "08",
+  "filename": "08_btm_layout.wav",
+  "text": "बीटी हम लियाओ सकिन स्टीज में रदते हैं हम दो साल से",
+  "latency_s": 3.0439696380000214,
+  "error": null,
+  "raw": {
+    "text": "बीटी हम लियाओ सकिन स्टीज में रदते हैं हम दो साल से"
+  }
+}

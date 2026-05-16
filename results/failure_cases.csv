@@ -1,0 +1,11 @@
+clip_id,locality,condition,difficulty,n_models,n_hits,n_partial,n_misses
+12,Kadugondanahalli,phone_call,hard,6,0,0,6
+09,Majestic,rushed,easy,6,1,1,4
+18,Doddanekundi,traffic_noise,hard,6,0,4,2
+05,Marathahalli,traffic_noise,medium,6,0,4,2
+07,HSR Layout,traffic_noise,medium,6,1,3,2
+01,Koramangala,quiet,easy,6,5,0,1
+13,Hesaraghatta,quiet,hard,6,0,5,1
+19,Kengeri Upanagara,rushed,hard,6,5,0,1
+17,Thanisandra,phone_call,medium,6,0,5,1
+16,Kothanur Dinne,whispered,hard,6,3,2,1

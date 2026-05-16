@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "12",
+  "filename": "12_kadugondanahalli.wav",
+  "text": "कद्दूगोंदा हनली के पास एक गारमेंट फैक्ट्री में काम करता था मैं पहले।",
+  "latency_s": 0.56239620805718,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_e10dd887-638d-403b-ba9c-9fb29750495d",
+    "transcript": "कद्दूगोंदा हनली के पास एक गारमेंट फैक्ट्री में काम करता था मैं पहले।",
+    "language_code": "hi-IN"
+  }
+}

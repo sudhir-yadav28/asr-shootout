@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "14",
+  "filename": "14_chikkabanavara.wav",
+  "text": "चिक्का बनवारवारा स्टेशन से ट्रेन पकड़ के आता हूं मैं डेली",
+  "latency_s": 1.1381402279999975,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

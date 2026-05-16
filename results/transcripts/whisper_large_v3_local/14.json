@@ -1,0 +1,11 @@
+{
+  "model": "whisper_large_v3_local",
+  "clip_id": "14",
+  "filename": "14_chikkabanavara.wav",
+  "text": "चिक्का बनवारा स्टेशन से ट्रेन पकड़ी आता हूँ मिलेली",
+  "latency_s": 3.208210555999983,
+  "error": null,
+  "raw": {
+    "text": "चिक्का बनवारा स्टेशन से ट्रेन पकड़ी आता हूँ मिलेली"
+  }
+}

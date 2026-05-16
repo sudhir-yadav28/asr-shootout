@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "19",
+  "filename": "19_kengeri_upanagara.wav",
+  "text": "केंगेरी उपनगर मेट्रो तक रोज ोटो से जाता हूं मैं तो",
+  "latency_s": 1.0540279360000113,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

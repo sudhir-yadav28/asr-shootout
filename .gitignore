@@ -1,0 +1,18 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# local artifacts (kept off the public repo)
+*.docx
+build_plan_doc.py
+
+# system
+.DS_Store

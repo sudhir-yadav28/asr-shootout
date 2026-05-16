@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "01",
+  "filename": "01_koramangala.wav",
+  "text": "हाँ भैया मैं कोरामंगला में रहता हूँ फिफ्थ ब्लॉक के पास",
+  "latency_s": 2.2219885408412665,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_ccf71c9d-5815-4a79-90c5-50ea0ab40d9f",
+    "transcript": "हाँ भैया मैं कोरामंगला में रहता हूँ फिफ्थ ब्लॉक के पास",
+    "language_code": "hi-IN"
+  }
+}

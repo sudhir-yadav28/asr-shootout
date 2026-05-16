@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "16",
+  "filename": "16_kothanur_dinne.wav",
+  "text": "कोथानूर दिने के पास वाली कॉलोनी में रहता हूँ मैं",
+  "latency_s": 0.44307187502272427,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_afe734f4-7650-4d0a-b7cb-1d92bdd4f988",
+    "transcript": "कोथानूर दिने के पास वाली कॉलोनी में रहता हूँ मैं",
+    "language_code": "hi-IN"
+  }
+}

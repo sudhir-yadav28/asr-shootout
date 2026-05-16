@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "07",
+  "filename": "07_hsr_layout.wav",
+  "text": "एचएसआर लेआउट सेक्टर टू में डिलीवरी का काम करता हूँ मैं",
+  "latency_s": 1.3048998870000332,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

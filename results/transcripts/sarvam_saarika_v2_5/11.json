@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "11",
+  "filename": "11_byatarayanapura.wav",
+  "text": "मेरा एड्रेस बेत्रायनपुरा है नॉर्थ बैंगलोर साइड में",
+  "latency_s": 1.60229720803909,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_468692db-5b28-4d32-bc58-b1ba44a724d4",
+    "transcript": "मेरा एड्रेस बेत्रायनपुरा है नॉर्थ बैंगलोर साइड में",
+    "language_code": "hi-IN"
+  }
+}

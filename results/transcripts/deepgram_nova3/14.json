@@ -1,0 +1,206 @@
+{
+  "model": "deepgram_nova3",
+  "clip_id": "14",
+  "filename": "14_chikkabanavara.wav",
+  "text": "Hey देखो police में चिक्का बनवा रहा station से train पकड़ के आता हूँ मैं daily",
+  "latency_s": 0.8392178749199957,
+  "error": null,
+  "raw": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e20f4-8a58-7f11-8dec-57d1b2e6bdfd",
+      "sha256": "28ebb33af11f2c798236cb91dd5f8dec37923c626a48ce8fe7485b8be9b1a711",
+      "created": "2026-05-13T10:49:18.046000+00:00",
+      "duration": 5.16,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      },
+      "summary_info": null,
+      "sentiment_info": null,
+      "topics_info": null,
+      "intents_info": null,
+      "tags": null
+    },
+    "results": {
+      "channels": [
+        {
+          "search": null,
+          "alternatives": [
+            {
+              "transcript": "Hey देखो police में चिक्का बनवा रहा station से train पकड़ के आता हूँ मैं daily",
+              "confidence": 0.89957684,
+              "words": [
+                {
+                  "word": "hey",
+                  "start": 0.32,
+                  "end": 0.56,
+                  "confidence": 0.37890625,
+                  "punctuated_word": "Hey",
+                  "language": "hi"
+                },
+                {
+                  "word": "देखो",
+                  "start": 0.56,
+                  "end": 0.88,
+                  "confidence": 0.7670288,
+                  "punctuated_word": "देखो",
+                  "language": "hi"
+                },
+                {
+                  "word": "police",
+                  "start": 0.88,
+                  "end": 1.1999999,
+                  "confidence": 0.91503906,
+                  "punctuated_word": "police",
+                  "language": "hi"
+                },
+                {
+                  "word": "में",
+                  "start": 1.1999999,
+                  "end": 1.68,
+                  "confidence": 0.54138184,
+                  "punctuated_word": "में",
+                  "language": "hi"
+                },
+                {
+                  "word": "चिक्का",
+                  "start": 1.68,
+                  "end": 2.1599998,
+                  "confidence": 0.89957684,
+                  "punctuated_word": "चिक्का",
+                  "language": "hi"
+                },
+                {
+                  "word": "बनवा",
+                  "start": 2.1599998,
+                  "end": 2.56,
+                  "confidence": 0.9868164,
+                  "punctuated_word": "बनवा",
+                  "language": "hi"
+                },
+                {
+                  "word": "रहा",
+                  "start": 2.56,
+                  "end": 2.6399999,
+                  "confidence": 0.6373291,
+                  "punctuated_word": "रहा",
+                  "language": "hi"
+                },
+                {
+                  "word": "station",
+                  "start": 2.6399999,
+                  "end": 2.96,
+                  "confidence": 0.55615234,
+                  "punctuated_word": "station",
+                  "language": "hi"
+                },
+                {
+                  "word": "से",
+                  "start": 2.96,
+                  "end": 3.1999998,
+                  "confidence": 0.9885254,
+                  "punctuated_word": "से",
+                  "language": "hi"
+                },
+                {
+                  "word": "train",
+                  "start": 3.1999998,
+                  "end": 3.36,
+                  "confidence": 0.9863281,
+                  "punctuated_word": "train",
+                  "language": "hi"
+                },
+                {
+                  "word": "पकड़",
+                  "start": 3.36,
+                  "end": 3.6799998,
+                  "confidence": 0.7824707,
+                  "punctuated_word": "पकड़",
+                  "language": "hi"
+                },
+                {
+                  "word": "के",
+                  "start": 3.6799998,
+                  "end": 3.76,
+                  "confidence": 0.7416992,
+                  "punctuated_word": "के",
+                  "language": "hi"
+                },
+                {
+                  "word": "आता",
+                  "start": 3.76,
+                  "end": 4.0,
+                  "confidence": 0.9921875,
+                  "punctuated_word": "आता",
+                  "language": "hi"
+                },
+                {
+                  "word": "हूँ",
+                  "start": 4.0,
+                  "end": 4.08,
+                  "confidence": 0.9885254,
+                  "punctuated_word": "हूँ",
+                  "language": "hi"
+                },
+                {
+                  "word": "मैं",
+                  "start": 4.08,
+                  "end": 4.24,
+                  "confidence": 0.9716797,
+                  "punctuated_word": "मैं",
+                  "language": "hi"
+                },
+                {
+                  "word": "daily",
+                  "start": 4.24,
+                  "end": 4.7999997,
+                  "confidence": 0.78271484,
+                  "punctuated_word": "daily",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nHey देखो police में चिक्का बनवा रहा station से train पकड़ के आता हूँ मैं daily",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "Hey देखो police में चिक्का बनवा रहा station से train पकड़ के आता हूँ मैं daily",
+                        "start": 0.32,
+                        "end": 4.7999997
+                      }
+                    ],
+                    "speaker": null,
+                    "num_words": 16,
+                    "start": 0.32,
+                    "end": 4.7999997
+                  }
+                ]
+              },
+              "entities": null,
+              "summaries": null,
+              "topics": null,
+              "languages": [
+                "hi"
+              ]
+            }
+          ],
+          "detected_language": null
+        }
+      ],
+      "utterances": null,
+      "summary": null,
+      "topics": null,
+      "intents": null,
+      "sentiments": null
+    }
+  }
+}

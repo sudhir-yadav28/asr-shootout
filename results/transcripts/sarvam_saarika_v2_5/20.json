@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "20",
+  "filename": "20_thalaghattapura.wav",
+  "text": "थाला घाटापुरा की तरफ नई अपार्टमेंट्स बन रही हैं बहुत सारे।",
+  "latency_s": 0.6406340000685304,
+  "error": null,
+  "raw": {
+    "request_id": "20260516_19df6b98-e207-4250-9e03-f3b5fe8f4b97",
+    "transcript": "थाला घाटापुरा की तरफ नई अपार्टमेंट्स बन रही हैं बहुत सारे।",
+    "language_code": "hi-IN"
+  }
+}

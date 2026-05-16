@@ -1,0 +1,11 @@
+{
+  "model": "whisper_large_v3_local",
+  "clip_id": "11",
+  "filename": "11_byatarayanapura.wav",
+  "text": "मेरा अड्रेस ब्यत्रायनापुरा है नौर्थ बैंगलोर्ड साइड में",
+  "latency_s": 3.5948049549999723,
+  "error": null,
+  "raw": {
+    "text": "मेरा अड्रेस ब्यत्रायनापुरा है नौर्थ बैंगलोर्ड साइड में"
+  }
+}

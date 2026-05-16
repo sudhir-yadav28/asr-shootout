@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "10",
+  "filename": "10_hebbal.wav",
+  "text": "हैबल फ्लाईओवर क्रॉस करके सीधा आना फिर लेफ्ट मैं वहीं पर खड़ा हूं",
+  "latency_s": 1.2387765999999374,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

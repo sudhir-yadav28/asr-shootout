@@ -1,0 +1,12 @@
+# Colab requirements — for running Whisper-large-v3 and AI4Bharat IndicConformer on T4.
+# torch + transformers + soundfile are pre-installed on Colab.
+
+transformers>=4.45.0
+torch>=2.0.0
+torchaudio>=2.0.0
+soundfile>=0.12.0
+huggingface_hub>=0.24.0
+librosa>=0.10.0
+tqdm>=4.66.0
+# IndicConformer dependency. If install fails, the notebook falls back to vasista22/whisper-hindi-large-v2.
+nemo_toolkit[asr]>=2.0.0

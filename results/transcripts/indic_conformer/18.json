@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "18",
+  "filename": "18_doddanekundi.wav",
+  "text": "दोधन ने कुड़ी इंडस्ट्रियल एरिया में बहुत कंपनियों से असर",
+  "latency_s": 1.0778471029999537,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "20",
+  "filename": "20_thalaghattapura.wav",
+  "text": "थालाघाटापुरा की तरफ नई अपार्टमेंट्स बन रही हैं बहुत सारी",
+  "latency_s": 1.1794693780000216,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

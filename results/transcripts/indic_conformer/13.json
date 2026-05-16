@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "13",
+  "filename": "13_hesaraghatta.wav",
+  "text": "केसरघाटा लेक साइड में एक फार्म है हमारा हम लोग वहां पर वीकएंड प जाते हैं",
+  "latency_s": 1.3484887030000436,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "08",
+  "filename": "08_btm_layout.wav",
+  "text": "बीटीएम लेआउट सेकंड स्टेज में रहते हैं हम 2 साल से।",
+  "latency_s": 0.4674097918905318,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_8b49a047-0052-4a88-8906-f476a49aa8fa",
+    "transcript": "बीटीएम लेआउट सेकंड स्टेज में रहते हैं हम 2 साल से।",
+    "language_code": "hi-IN"
+  }
+}

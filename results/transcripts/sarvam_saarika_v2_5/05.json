@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "05",
+  "filename": "05_marathahalli.wav",
+  "text": "मराथाली ब्रिज के नीचे ट्रैफिक बहुत होता है रोज यार।",
+  "latency_s": 0.6637170829344541,
+  "error": null,
+  "raw": {
+    "request_id": "20260516_26c077d9-d48f-4150-86dd-ec1690e5a1a7",
+    "transcript": "मराथाली ब्रिज के नीचे ट्रैफिक बहुत होता है रोज यार।",
+    "language_code": "hi-IN"
+  }
+}

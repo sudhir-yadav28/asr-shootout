@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "13",
+  "filename": "13_hesaraghatta.wav",
+  "text": "केसर घाटा लेक साइड में एक फार्म है हमारा हम लोग वहाँ पे वीकेंड पे जाते हैं।",
+  "latency_s": 0.7523096248041838,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_f2b6f3bf-22fd-4db1-8f9c-ec24e176181a",
+    "transcript": "केसर घाटा लेक साइड में एक फार्म है हमारा हम लोग वहाँ पे वीकेंड पे जाते हैं।",
+    "language_code": "hi-IN"
+  }
+}

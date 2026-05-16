@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "02",
+  "filename": "02_Indranagar.wav",
+  "text": "मेरा घर इंदराानगर में है ट्वेल्थ मेन रोड पर ठीक है",
+  "latency_s": 1.4191333870001017,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "01",
+  "filename": "01_koramangala.wav",
+  "text": "हाँ भैया मैं कोरामंगला में रहता हूँ फिफ्थ ब्लॉक के पास",
+  "latency_s": 3.38188475000004,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

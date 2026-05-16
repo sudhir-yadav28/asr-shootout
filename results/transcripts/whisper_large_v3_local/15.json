@@ -1,0 +1,11 @@
+{
+  "model": "whisper_large_v3_local",
+  "clip_id": "15",
+  "filename": "15_rajarajeshwarinagar.wav",
+  "text": "भाईया मैं राज राजेश्वरी नगर में रूम ढूढ रहा हूँ थोड़ा तस्ता वाला",
+  "latency_s": 4.305027608999978,
+  "error": null,
+  "raw": {
+    "text": "भाईया मैं राज राजेश्वरी नगर में रूम ढूढ रहा हूँ थोड़ा तस्ता वाला"
+  }
+}

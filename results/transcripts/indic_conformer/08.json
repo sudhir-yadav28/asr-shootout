@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "08",
+  "filename": "08_btm_layout.wav",
+  "text": "बीटीएम लेआउट सेकेंड स्टेज में रहते हैं हम दो साल से",
+  "latency_s": 1.0536964100000432,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

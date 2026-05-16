@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "03",
+  "filename": "03_whitefield.wav",
+  "text": "मेरा ऑफिस वाइट फील्ड्स में है सर, डेली वन आवर लगता है मुझे आने में।",
+  "latency_s": 0.5201138749253005,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_c683b799-fde2-4644-b802-caf7ad3a9c4a",
+    "transcript": "मेरा ऑफिस वाइट फील्ड्स में है सर, डेली वन आवर लगता है मुझे आने में।",
+    "language_code": "hi-IN"
+  }
+}

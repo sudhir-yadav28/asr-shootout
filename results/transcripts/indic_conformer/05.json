@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "05",
+  "filename": "05_marathahalli.wav",
+  "text": "मराथली ब्रिज के नीचे ट्रैफिक बहुत होता है रोज़हाार",
+  "latency_s": 0.7561251559999391,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

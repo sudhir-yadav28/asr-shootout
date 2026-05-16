@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "14",
+  "filename": "14_chikkabanavara.wav",
+  "text": "ए जवाब पुलिस ने चिक्का बनवा रहा है स्टेशन से ट्रेन पकड़ के आता हूँ मैं डेली।",
+  "latency_s": 0.7280774591490626,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_cb41d449-cbf0-43fe-861a-d34388e74340",
+    "transcript": "ए जवाब पुलिस ने चिक्का बनवा रहा है स्टेशन से ट्रेन पकड़ के आता हूँ मैं डेली।",
+    "language_code": "hi-IN"
+  }
+}

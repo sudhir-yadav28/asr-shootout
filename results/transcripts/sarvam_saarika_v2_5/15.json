@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "15",
+  "filename": "15_rajarajeshwarinagar.wav",
+  "text": "भैया मैं राज राजेश्वरी नगर में रूम ढूँढ रहा हूँ थोड़ा सस्ता वाला",
+  "latency_s": 0.603807833045721,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_0e253603-3d5f-4e94-b5ae-d1194f6f4f11",
+    "transcript": "भैया मैं राज राजेश्वरी नगर में रूम ढूँढ रहा हूँ थोड़ा सस्ता वाला",
+    "language_code": "hi-IN"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "03",
+  "filename": "03_whitefield.wav",
+  "text": "मेरा ऑफिस व्हाइट फील्ड्स में है सर डेली वन आवर लगता है मुझे आने में",
+  "latency_s": 1.1745204359999661,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

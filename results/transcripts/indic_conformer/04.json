@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "04",
+  "filename": "04_electronic_city.wav",
+  "text": "भाई मैं इलक्ट्रानिक सिटी फेस वन में जॉब करता हूँ इंफोर्सेिस के पास",
+  "latency_s": 1.3962238650000245,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

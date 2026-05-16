@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "02",
+  "filename": "02_Indranagar.wav",
+  "text": "मेरा घर इंदिरानगर में है, 12th मेन रोड पर, ठीक है?",
+  "latency_s": 0.6127760419622064,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_4db27bdc-fb97-4075-8af8-ffde7da166e9",
+    "transcript": "मेरा घर इंदिरानगर में है, 12th मेन रोड पर, ठीक है?",
+    "language_code": "hi-IN"
+  }
+}

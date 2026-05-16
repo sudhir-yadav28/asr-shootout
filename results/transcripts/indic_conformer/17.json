@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "17",
+  "filename": "17_thanisandra.wav",
+  "text": "तुम्हें पता है अ धनीसंद्रा मेन रोड पर नया मेट्रो स्टेशन खुल रहा है",
+  "latency_s": 1.2123486709999725,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

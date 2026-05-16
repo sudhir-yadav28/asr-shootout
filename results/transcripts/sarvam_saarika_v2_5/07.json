@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "07",
+  "filename": "07_hsr_layout.wav",
+  "text": "एचएसएल लेआउट सेक्टर टू में डिलीवरी का काम करता हूं मैं।",
+  "latency_s": 0.5156075421255082,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_87c81cd9-6d19-4982-b485-f7fe01c53986",
+    "transcript": "एचएसएल लेआउट सेक्टर टू में डिलीवरी का काम करता हूं मैं।",
+    "language_code": "hi-IN"
+  }
+}

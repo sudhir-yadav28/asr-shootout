@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "06",
+  "filename": "06_jayanagar.wav",
+  "text": "फैमिली जयनगर फोर्थ ब्लॉक में शिफ्ट हो गई है पिछले साल।",
+  "latency_s": 0.5762313748709857,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_0b99a78e-92ac-4250-a92c-56a8bffaa730",
+    "transcript": "फैमिली जयनगर फोर्थ ब्लॉक में शिफ्ट हो गई है पिछले साल।",
+    "language_code": "hi-IN"
+  }
+}

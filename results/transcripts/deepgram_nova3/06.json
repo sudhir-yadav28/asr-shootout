@@ -1,0 +1,174 @@
+{
+  "model": "deepgram_nova3",
+  "clip_id": "06",
+  "filename": "06_jayanagar.wav",
+  "text": "Family जय नगर court block में shift हो गई है पिछले साल.",
+  "latency_s": 0.613276791991666,
+  "error": null,
+  "raw": {
+    "metadata": {
+      "transaction_key": "deprecated",
+      "request_id": "019e20f4-6c08-7321-a280-63761733816d",
+      "sha256": "9e2979dc06fb75768ad32fa08ecbcee2a25347e8bfb889085fb4f0e89233362f",
+      "created": "2026-05-13T10:49:10.071000+00:00",
+      "duration": 4.02,
+      "channels": 1,
+      "models": [
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5"
+      ],
+      "model_info": {
+        "b6e78fa4-ac4f-4f32-93f0-2b6906832fb5": {
+          "name": "general-nova-3",
+          "version": "2026-01-27.9107",
+          "arch": "nova-3"
+        }
+      },
+      "summary_info": null,
+      "sentiment_info": null,
+      "topics_info": null,
+      "intents_info": null,
+      "tags": null
+    },
+    "results": {
+      "channels": [
+        {
+          "search": null,
+          "alternatives": [
+            {
+              "transcript": "Family जय नगर court block में shift हो गई है पिछले साल.",
+              "confidence": 0.9941406,
+              "words": [
+                {
+                  "word": "family",
+                  "start": 0.71999997,
+                  "end": 1.04,
+                  "confidence": 0.56640625,
+                  "punctuated_word": "Family",
+                  "language": "hi"
+                },
+                {
+                  "word": "जय",
+                  "start": 1.04,
+                  "end": 1.36,
+                  "confidence": 0.66308594,
+                  "punctuated_word": "जय",
+                  "language": "hi"
+                },
+                {
+                  "word": "नगर",
+                  "start": 1.36,
+                  "end": 1.68,
+                  "confidence": 0.89624023,
+                  "punctuated_word": "नगर",
+                  "language": "hi"
+                },
+                {
+                  "word": "court",
+                  "start": 1.68,
+                  "end": 1.92,
+                  "confidence": 0.43432617,
+                  "punctuated_word": "court",
+                  "language": "hi"
+                },
+                {
+                  "word": "block",
+                  "start": 1.92,
+                  "end": 2.1599998,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "block",
+                  "language": "hi"
+                },
+                {
+                  "word": "में",
+                  "start": 2.1599998,
+                  "end": 2.32,
+                  "confidence": 0.9975586,
+                  "punctuated_word": "में",
+                  "language": "hi"
+                },
+                {
+                  "word": "shift",
+                  "start": 2.32,
+                  "end": 2.56,
+                  "confidence": 0.9941406,
+                  "punctuated_word": "shift",
+                  "language": "hi"
+                },
+                {
+                  "word": "हो",
+                  "start": 2.56,
+                  "end": 2.72,
+                  "confidence": 0.9980469,
+                  "punctuated_word": "हो",
+                  "language": "hi"
+                },
+                {
+                  "word": "गई",
+                  "start": 2.72,
+                  "end": 2.8799999,
+                  "confidence": 0.96875,
+                  "punctuated_word": "गई",
+                  "language": "hi"
+                },
+                {
+                  "word": "है",
+                  "start": 2.8799999,
+                  "end": 3.04,
+                  "confidence": 0.98828125,
+                  "punctuated_word": "है",
+                  "language": "hi"
+                },
+                {
+                  "word": "पिछले",
+                  "start": 3.04,
+                  "end": 3.4399998,
+                  "confidence": 0.99975586,
+                  "punctuated_word": "पिछले",
+                  "language": "hi"
+                },
+                {
+                  "word": "साल",
+                  "start": 3.4399998,
+                  "end": 3.6799998,
+                  "confidence": 0.99975586,
+                  "punctuated_word": "साल.",
+                  "language": "hi"
+                }
+              ],
+              "paragraphs": {
+                "transcript": "\nFamily जय नगर court block में shift हो गई है पिछले साल.",
+                "paragraphs": [
+                  {
+                    "sentences": [
+                      {
+                        "text": "Family जय नगर court block में shift हो गई है पिछले साल.",
+                        "start": 0.71999997,
+                        "end": 3.6799998
+                      }
+                    ],
+                    "speaker": null,
+                    "num_words": 12,
+                    "start": 0.71999997,
+                    "end": 3.6799998
+                  }
+                ]
+              },
+              "entities": null,
+              "summaries": null,
+              "topics": null,
+              "languages": [
+                "hi"
+              ]
+            }
+          ],
+          "detected_language": null
+        }
+      ],
+      "utterances": null,
+      "summary": null,
+      "topics": null,
+      "intents": null,
+      "sentiments": null
+    }
+  }
+}

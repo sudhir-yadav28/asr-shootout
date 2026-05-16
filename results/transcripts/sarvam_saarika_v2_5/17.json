@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "17",
+  "filename": "17_thanisandra.wav",
+  "text": "तुम्हें पता है थनी संधरा मेन रोड पर नया मेट्रो स्टेशन खुल रहा है",
+  "latency_s": 0.5799735421314836,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_750700d9-f340-48c8-9aeb-41fa700a2813",
+    "transcript": "तुम्हें पता है थनी संधरा मेन रोड पर नया मेट्रो स्टेशन खुल रहा है",
+    "language_code": "hi-IN"
+  }
+}

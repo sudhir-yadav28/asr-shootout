@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "09",
+  "filename": "09_majestic.wav",
+  "text": "बस स्टैंड मेजेस्टिक से मेसोर की बस मिलती है हर घंटे, ठीक है?",
+  "latency_s": 0.562901624944061,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_4e5c6afd-a9ce-48c2-b03d-eea480b165c0",
+    "transcript": "बस स्टैंड मेजेस्टिक से मेसोर की बस मिलती है हर घंटे, ठीक है?",
+    "language_code": "hi-IN"
+  }
+}

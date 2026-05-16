@@ -1,0 +1,11 @@
+{
+  "model": "whisper_large_v3_local",
+  "clip_id": "05",
+  "filename": "05_marathahalli.wav",
+  "text": "मराथली ब्रिज के नीचे ट्रैफिक बहुत होता है रोज यार",
+  "latency_s": 3.090555601999995,
+  "error": null,
+  "raw": {
+    "text": "मराथली ब्रिज के नीचे ट्रैफिक बहुत होता है रोज यार"
+  }
+}

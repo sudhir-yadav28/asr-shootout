@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "11",
+  "filename": "11_byatarayanapura.wav",
+  "text": "मेरा एड्रेस बेतराइनाापुरा है नॉर्थ बेंगलोर साइड में",
+  "latency_s": 0.9742534439999417,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

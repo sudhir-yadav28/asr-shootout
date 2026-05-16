@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "04",
+  "filename": "04_electronic_city.wav",
+  "text": "भाई मैं इलेक्ट्रॉनिक सिटी फेस वन में जॉब करता हूँ इंफोसिस के पास।",
+  "latency_s": 0.5333235419820994,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_51280144-ade3-49f3-ac44-e1110d379853",
+    "transcript": "भाई मैं इलेक्ट्रॉनिक सिटी फेस वन में जॉब करता हूँ इंफोसिस के पास।",
+    "language_code": "hi-IN"
+  }
+}

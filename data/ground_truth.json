@@ -1,0 +1,222 @@
+[
+  {
+    "id": "01",
+    "filename": "01_koramangala.wav",
+    "locality": "Koramangala",
+    "locality_aliases": ["Koramangla", "Koramangal", "कोरमंगला", "कोरामंगला"],
+    "transcript_roman": "Haan bhaiya, main Koramangala mein rehta hoon, 5th block ke paas.",
+    "transcript_devanagari": "हाँ भैया, मैं कोरमंगला में रहता हूँ, 5th ब्लॉक के पास।",
+    "condition": "quiet",
+    "lang_mix": "hinglish",
+    "difficulty": "easy"
+  },
+  {
+    "id": "02",
+    "filename": "02_indiranagar.wav",
+    "locality": "Indiranagar",
+    "locality_aliases": ["Indira Nagar", "Indra Nagar", "इंदिरानगर", "इंदिरा नगर"],
+    "transcript_roman": "Mera ghar Indiranagar mein hai, 12th main road par.",
+    "transcript_devanagari": "मेरा घर इंदिरानगर में है, 12th मेन रोड पर।",
+    "condition": "quiet",
+    "lang_mix": "hinglish",
+    "difficulty": "easy"
+  },
+  {
+    "id": "03",
+    "filename": "03_whitefield.wav",
+    "locality": "Whitefield",
+    "locality_aliases": ["White Field", "व्हाइटफील्ड", "वाइटफील्ड"],
+    "transcript_roman": "Office Whitefield mein hai sir, daily ek ghanta lagta hai aane mein.",
+    "transcript_devanagari": "ऑफिस व्हाइटफील्ड में है सर, डेली एक घंटा लगता है आने में।",
+    "condition": "traffic_noise",
+    "lang_mix": "hinglish",
+    "difficulty": "easy"
+  },
+  {
+    "id": "04",
+    "filename": "04_electronic_city.wav",
+    "locality": "Electronic City",
+    "locality_aliases": ["Electronic City Phase 1", "Electronic City Phase One", "इलेक्ट्रॉनिक सिटी"],
+    "transcript_roman": "Bhai main Electronic City phase one mein job karta hoon, Infosys ke paas.",
+    "transcript_devanagari": "भाई मैं इलेक्ट्रॉनिक सिटी फेज वन में जॉब करता हूँ, इन्फोसिस के पास।",
+    "condition": "phone_call",
+    "lang_mix": "hinglish",
+    "difficulty": "easy"
+  },
+  {
+    "id": "05",
+    "filename": "05_marathahalli.wav",
+    "locality": "Marathahalli",
+    "locality_aliases": ["Marathalli", "Maratahalli", "मराठहल्ली", "मराठाहल्ली"],
+    "transcript_roman": "Marathahalli bridge ke neeche traffic bahut hota hai roz.",
+    "transcript_devanagari": "मराठहल्ली ब्रिज के नीचे ट्रैफिक बहुत होता है रोज़।",
+    "condition": "traffic_noise",
+    "lang_mix": "hinglish",
+    "difficulty": "medium"
+  },
+  {
+    "id": "06",
+    "filename": "06_jayanagar.wav",
+    "locality": "Jayanagar",
+    "locality_aliases": ["Jaya Nagar", "Jaynagar", "जयनगर", "जय नगर"],
+    "transcript_roman": "Family Jayanagar 4th block mein shift ho gayi pichle saal.",
+    "transcript_devanagari": "फैमिली जयनगर 4th ब्लॉक में शिफ्ट हो गई पिछले साल।",
+    "condition": "quiet",
+    "lang_mix": "hinglish",
+    "difficulty": "easy"
+  },
+  {
+    "id": "07",
+    "filename": "07_hsr_layout.wav",
+    "locality": "HSR Layout",
+    "locality_aliases": ["HSR", "H.S.R. Layout", "एचएसआर लेआउट", "एच एस आर लेआउट"],
+    "transcript_roman": "HSR Layout sector 2 mein delivery ka kaam karta hoon main.",
+    "transcript_devanagari": "एचएसआर लेआउट सेक्टर 2 में डिलीवरी का काम करता हूँ मैं।",
+    "condition": "traffic_noise",
+    "lang_mix": "hinglish",
+    "difficulty": "medium"
+  },
+  {
+    "id": "08",
+    "filename": "08_btm_layout.wav",
+    "locality": "BTM Layout",
+    "locality_aliases": ["BTM", "B.T.M. Layout", "बीटीएम लेआउट", "बी टी एम लेआउट"],
+    "transcript_roman": "BTM Layout 2nd stage mein rehte hain hum, do saal se.",
+    "transcript_devanagari": "बीटीएम लेआउट 2nd स्टेज में रहते हैं हम, दो साल से।",
+    "condition": "phone_call",
+    "lang_mix": "hinglish",
+    "difficulty": "medium"
+  },
+  {
+    "id": "09",
+    "filename": "09_majestic.wav",
+    "locality": "Majestic",
+    "locality_aliases": ["Kempegowda Bus Station", "मैजेस्टिक"],
+    "transcript_roman": "Bus stand Majestic se Mysore ki bus milti hai har ghante.",
+    "transcript_devanagari": "बस स्टैंड मैजेस्टिक से मैसूर की बस मिलती है हर घंटे।",
+    "condition": "rushed",
+    "lang_mix": "hinglish",
+    "difficulty": "easy"
+  },
+  {
+    "id": "10",
+    "filename": "10_hebbal.wav",
+    "locality": "Hebbal",
+    "locality_aliases": ["हेब्बल", "हेबल"],
+    "transcript_roman": "Hebbal flyover cross karke seedha aana, fir left.",
+    "transcript_devanagari": "हेब्बल फ्लाईओवर क्रॉस करके सीधा आना, फिर लेफ्ट।",
+    "condition": "quiet",
+    "lang_mix": "hinglish",
+    "difficulty": "easy"
+  },
+  {
+    "id": "11",
+    "filename": "11_byatarayanapura.wav",
+    "locality": "Byatarayanapura",
+    "locality_aliases": ["Byataranyapura", "Byatrayanapura", "ब्यातरायणपुरा", "ब्यातरयनपुरा"],
+    "transcript_roman": "Mera address Byatarayanapura hai, north Bangalore side.",
+    "transcript_devanagari": "मेरा एड्रेस ब्यातरायणपुरा है, नॉर्थ बैंगलोर साइड।",
+    "condition": "whispered",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "12",
+    "filename": "12_kadugondanahalli.wav",
+    "locality": "Kadugondanahalli",
+    "locality_aliases": ["Kadugondanahally", "KG Halli", "कडुगोंडनहल्ली", "कडुगोंडनहली"],
+    "transcript_roman": "Kadugondanahalli ke paas ek garment factory mein kaam tha pehle.",
+    "transcript_devanagari": "कडुगोंडनहल्ली के पास एक गारमेंट फैक्टरी में काम था पहले।",
+    "condition": "phone_call",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "13",
+    "filename": "13_hesaraghatta.wav",
+    "locality": "Hesaraghatta",
+    "locality_aliases": ["Hesarghatta", "Hessaraghatta", "हेसरघट्टा", "हेसारघट्टा"],
+    "transcript_roman": "Hesaraghatta lake side mein ek farm hai humara, weekend pe jaate hain.",
+    "transcript_devanagari": "हेसरघट्टा लेक साइड में एक फार्म है हमारा, वीकेंड पे जाते हैं।",
+    "condition": "quiet",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "14",
+    "filename": "14_chikkabanavara.wav",
+    "locality": "Chikkabanavara",
+    "locality_aliases": ["Chikbanavara", "Chikkabanavar", "चिक्कबाणावरा", "चिक्कबनवारा"],
+    "transcript_roman": "Chikkabanavara station se train pakad ke aata hoon main daily.",
+    "transcript_devanagari": "चिक्कबाणावरा स्टेशन से ट्रेन पकड़ के आता हूँ मैं डेली।",
+    "condition": "traffic_noise",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "15",
+    "filename": "15_rajarajeshwarinagar.wav",
+    "locality": "Rajarajeshwarinagar",
+    "locality_aliases": ["Raja Rajeshwari Nagar", "RR Nagar", "RRNagar", "राजराजेश्वरीनगर", "राजराजेश्वरी नगर"],
+    "transcript_roman": "Bhaiya, Rajarajeshwarinagar mein room dhoondh raha hoon, sasta wala.",
+    "transcript_devanagari": "भैया, राजराजेश्वरीनगर में रूम ढूंढ रहा हूँ, सस्ता वाला।",
+    "condition": "rushed",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "16",
+    "filename": "16_kothanur_dinne.wav",
+    "locality": "Kothanur Dinne",
+    "locality_aliases": ["Kothnur Dinne", "Kothanoor Dinne", "कोथनूर दिन्ने", "कोठनूर दिन्ने"],
+    "transcript_roman": "Kothanur Dinne ke paas wali colony mein rehta hoon main.",
+    "transcript_devanagari": "कोथनूर दिन्ने के पास वाली कॉलोनी में रहता हूँ मैं।",
+    "condition": "whispered",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "17",
+    "filename": "17_thanisandra.wav",
+    "locality": "Thanisandra",
+    "locality_aliases": ["Tanisandra", "Thanisandhra", "तनिसंद्रा", "थनिसंद्रा"],
+    "transcript_roman": "Thanisandra main road par naya metro station khul raha hai.",
+    "transcript_devanagari": "तनिसंद्रा मेन रोड पर नया मेट्रो स्टेशन खुल रहा है।",
+    "condition": "phone_call",
+    "lang_mix": "hinglish",
+    "difficulty": "medium"
+  },
+  {
+    "id": "18",
+    "filename": "18_doddanekundi.wav",
+    "locality": "Doddanekundi",
+    "locality_aliases": ["Dodanekundi", "Doddanakundi", "दोड्डनेकुंडी", "दोडनेकुंडी"],
+    "transcript_roman": "Doddanekundi industrial area mein bahut companies hain sir.",
+    "transcript_devanagari": "दोड्डनेकुंडी इंडस्ट्रियल एरिया में बहुत कंपनियाँ हैं सर।",
+    "condition": "traffic_noise",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "19",
+    "filename": "19_kengeri_upanagara.wav",
+    "locality": "Kengeri Upanagara",
+    "locality_aliases": ["Kengeri Satellite Town", "Kengeri", "केंगेरी उपनगर", "केंगेरी उपनगरा"],
+    "transcript_roman": "Kengeri Upanagara metro tak roz auto se jaata hoon.",
+    "transcript_devanagari": "केंगेरी उपनगर मेट्रो तक रोज़ ऑटो से जाता हूँ।",
+    "condition": "rushed",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  },
+  {
+    "id": "20",
+    "filename": "20_thalaghattapura.wav",
+    "locality": "Thalaghattapura",
+    "locality_aliases": ["Thalghattapura", "Thalaghatapura", "थलघट्टपुरा", "थलघटपुरा"],
+    "transcript_roman": "Thalaghattapura ki taraf nayi apartments ban rahi hain bahut.",
+    "transcript_devanagari": "थलघट्टपुरा की तरफ नई अपार्टमेंट्स बन रही हैं बहुत।",
+    "condition": "whispered",
+    "lang_mix": "hinglish",
+    "difficulty": "hard"
+  }
+]

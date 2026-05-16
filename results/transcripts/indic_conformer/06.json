@@ -1,0 +1,12 @@
+{
+  "model": "indic_conformer",
+  "clip_id": "06",
+  "filename": "06_jayanagar.wav",
+  "text": "फैमिल जयनगर पोर्थ बलाक में शिफ्ट हो गई है पिछले साल",
+  "latency_s": 0.8546411519999992,
+  "error": null,
+  "raw": {
+    "decoding": "ctc",
+    "lang": "hi"
+  }
+}

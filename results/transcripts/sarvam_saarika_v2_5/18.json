@@ -1,0 +1,13 @@
+{
+  "model": "sarvam_saarika_v2_5",
+  "clip_id": "18",
+  "filename": "18_doddanekundi.wav",
+  "text": "दोधन ने कुड़ी इंडस्ट्रियल एरिया में बहुत कंपनी से सर",
+  "latency_s": 0.6240251250565052,
+  "error": null,
+  "raw": {
+    "request_id": "20260513_d1a3acbd-448c-4ef1-818e-e699bd083067",
+    "transcript": "दोधन ने कुड़ी इंडस्ट्रियल एरिया में बहुत कंपनी से सर",
+    "language_code": "hi-IN"
+  }
+}
